@@ -1,0 +1,8 @@
+vosk
+deep-translator
+tqdm
+requests
+imageio-ffmpeg
+tkinterdnd2
+numpy
+scipy

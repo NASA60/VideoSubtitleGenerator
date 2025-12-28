@@ -1,0 +1,24 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# Large AI models
+models/
+temp_model.zip
+
+# Temporary audio and log files
+temp_*.wav
+ffmpeg_log_*.txt
+
+# Environment & Temp files
+.venv/
+env/
+venv/
+*.log
+temp_extract/
