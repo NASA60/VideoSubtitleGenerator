@@ -1,4 +1,4 @@
-# 🎬 Video Subtitle Generator & Translator (v2.6)
+# 🎬 Video Subtitle Generator & Translator (v2)
 
 **ابزار هوشمند تولید زیرنویس و ترجمه ویدیو با استفاده از هوش مصنوعی**
 
